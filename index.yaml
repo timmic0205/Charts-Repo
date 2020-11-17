@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: "2020-11-17T10:34:40.544753142Z"
+entries:
+  ravendb:
+  - apiVersion: v1
+    appVersion: "4.2"
+    created: "2020-11-17T11:35:39.848880224Z"
+    description: A ravendb chart
+    digest: 6279d5a4f99423c329090ac2a205af45cbc71cd822d739e1a8ba6257b540f88d
+    name: ravendb
+    urls:
+    - ravendb-0.0.2.tgz
+    version: 0.0.2
+generated: "2020-11-17T11:35:39.848177612Z"
